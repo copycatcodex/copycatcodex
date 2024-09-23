@@ -23,7 +23,7 @@
   <a href="https://github.com/copycatcodex">
     <img src="https://img.shields.io/badge/GitHub-Follow-informational?style=for-the-badge&logo=github&color=181717" alt="GitHub Badge" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:gaarandongdotcom@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&color=D14836" alt="Email Badge" />
   </a>
 </p>
