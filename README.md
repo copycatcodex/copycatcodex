@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Sw4n </h1>
+<h1 align="center">👋 Hello, I'm Swan </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=2bbc8a" alt="Python Badge" />
@@ -28,4 +28,4 @@
   </a>
 </p>
 
-<p align="center">✨ Created with ❤️ by Swand1ary✨</p>
+<p align="center">✨ Created with ❤️ by Swandiary✨</p>
