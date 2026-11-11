@@ -1,7 +1,7 @@
 <div align="center">
 
 ```
-    _              _
+                          _              _
  __ ___ _ __ _  _ __ __ _| |_ __ ___  __| |_____ __
 / _/ _ \ '_ \ || / _/ _` |  _/ _/ _ \/ _` / -_) \ /
 \__\___/ .__/\_, \__\__,_|\__\__\___/\__,_\___/_\_\
@@ -24,12 +24,12 @@
 
 ```
 ┌──────────────────────────────────────────┐
-│  const copycatcodex = {                  │
-│    role: "vibecoder",                    │
-│    languages: [Melayu 👀],               │
-│    currentlyLearning: "..." ,            │
-│    funFact: "Love you!✨"               │
-│  };                                      │
+      const copycatcodex = {                  
+        role: "vibecoder",                    
+        languages: [Melayu 👀],              
+        currentlyLearning: "..." ,            
+        funFact: "Love you!✨"                
+      };                                       
 └──────────────────────────────────────────┘
 ```
 
