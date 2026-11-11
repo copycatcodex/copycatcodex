@@ -1,7 +1,7 @@
 <div align="center">
 
 ```
-              _              _
+               _              _
  __ ___ _ __ _  _ __ __ _| |_ __ ___  __| |_____ __
 / _/ _ \ '_ \ || / _/ _` |  _/ _/ _ \/ _` / -_) \ /
 \__\___/ .__/\_, \__\__,_|\__\__\___/\__,_\___/_\_\
@@ -49,10 +49,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=copycatcodex&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=copycatcodex&theme=radical" alt="GitHub Streak" />
